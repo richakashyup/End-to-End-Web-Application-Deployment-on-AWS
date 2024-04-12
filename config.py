@@ -1,0 +1,6 @@
+customhost="employee.ctqu44a2kb07.ap-south-1.rds.amazonaws.com"
+customuser="admin"
+custompass="password"
+customdb="employee"
+custombucket="employeebuc"
+customregion="ap-south-1"
